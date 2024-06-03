@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+@EXPLICIT
+https://anaconda.org/bioconda/mmseqs2/15.6f452/download/linux-64/mmseqs2-15.6f452
+https://anaconda.org/conda-forge/r-base/4.3.3/download/linux-64/r-base-4.3.3-hf0d
